@@ -132,7 +132,7 @@ class Program
     {
         InitializeFolders();
 
-        string telegramBotToken = "6758562218:AAEJmkMBcApnyrf1BEW2ecybTSdlUtvsXeQ";
+        string telegramBotToken = "here goes your bot token";
 
         botClient = new TelegramBotClient(telegramBotToken);
         botClient.OnMessage += Bot_OnMessage;
